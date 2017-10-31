@@ -2,7 +2,7 @@
 
 See screenshots
 
-#### Web
+#### Desktop
 ![screenshot_529](https://user-images.githubusercontent.com/26852127/32146858-fb0de94a-bc9a-11e7-9acd-ef4e3bdf4a33.png)
 ![screenshot_530](https://user-images.githubusercontent.com/26852127/32146860-fcb6b812-bc9a-11e7-8e0b-336a4f472496.png)
 
