@@ -1,4 +1,4 @@
-# Web Development Starter with Real Examples
+# Web Development Starter with Real Example
 
 See screenshots
 
